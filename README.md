@@ -1,6 +1,6 @@
 # Nvidia-Jetson-Nano-Program
  My dataset: https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign/discussion/300481
-
+/home/nvidia/jetson-inference/python/training/classification/test.png
  
 My project identifies over 42 different German traffic signs using machine learning.
 
